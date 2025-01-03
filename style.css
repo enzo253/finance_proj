@@ -1,0 +1,24 @@
+* {
+	font-family: 'Poppins', Sans-Serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	min-height: 100vh;
+	background: blue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#drop-box {
+	width: 300px;
+	min-height: 400px;
+	margin: 20px;
+	border: 2px solid white;
+}
+
+
